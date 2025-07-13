@@ -1,0 +1,1 @@
+consola.log(Curso - 2025)
