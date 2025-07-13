@@ -1,1 +1,1 @@
-consola.log(Curso - 2025)
+consola.log(Cursos - 2025)
